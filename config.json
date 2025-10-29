@@ -1,0 +1,18 @@
+{
+  "components": {
+    "Button": {
+      "enabled": true,
+      "message": ""
+    },
+    "Input": {
+      "enabled": true,
+      "message": ""
+    },
+    "Card": {
+      "enabled": true,
+      "message": ""
+    }
+  },
+  "globalMessage": "",
+  "lastUpdated": "2025-10-29T00:00:00Z"
+}
